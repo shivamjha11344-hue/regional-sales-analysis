@@ -14,10 +14,10 @@ Analyze business performance.
 
 ## Tools
 
-SQL
-Python
-Power BI
-GenAI
+- SQL
+- Python
+- Power BI
+- GenAI
 
 ## Key Insights
 
