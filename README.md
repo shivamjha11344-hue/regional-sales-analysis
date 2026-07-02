@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyze business performance.
+Analyze business performance regionally.
 
 
 ## Metrics
